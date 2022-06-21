@@ -1,4 +1,7 @@
 ### Hi there 👋
+- Analysis and systems development
+📝 Working and practicing java concepts (POO, SpringBoot, Bootstrap, Angular, REST API, etc)
+- Looking for new opportunities
 
 <!--
 **diegodsoliveira/diegodsoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
