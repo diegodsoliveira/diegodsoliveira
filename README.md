@@ -1,6 +1,6 @@
 ### Hi there 👋
 - Analysis and systems development
-📝 Working and practicing java concepts (POO, SpringBoot, Bootstrap, Angular, REST API, etc)
+- 📝 Working and practicing java concepts (POO, SpringBoot, Bootstrap, Angular, REST API, etc)
 - Looking for new opportunities
 
 <!--
