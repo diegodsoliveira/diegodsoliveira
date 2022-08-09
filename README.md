@@ -1,6 +1,15 @@
 ### Hi there 👋
 - Analysis and systems development
-- 📝 Working and practicing Java concepts (POO, PostgreSql, SpringBoot, Bootstrap, Angular, REST API, etc)
+- 📝 Dev Java Fullstack Jr.
+- Skills: 
+- Java
+- JSP
+- Boostratp
+- Linux
+- PostgreSql
+- Git
+- 🌱 I’m currently learning Spring Data, JPA, Spring Boot, Spring MVC, API Rest/Restfull, Angular, Docker
+
 - Looking for new opportunities
 
 <!--
