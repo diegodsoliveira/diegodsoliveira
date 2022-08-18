@@ -1,7 +1,8 @@
 ### Hi there 👋
 - Analysis and systems development
 - 📝 Dev Java Fullstack Jr.
-- Skills: 
+- Skills:
+- Docker
 - Java
 - JSP
 - Springboot
@@ -9,7 +10,7 @@
 - Linux
 - PostgreSql
 - Git
-- 🌱 I’m currently learning Spring Data, JPA, Spring Boot, Spring MVC, API Rest/Restfull, Angular, Docker
+- 🌱 I’m currently learning Angular
 
 - Looking for new opportunities
 
