@@ -4,7 +4,8 @@
 - Skills: 
 - Java
 - JSP
-- Boostratp
+- Springboot
+- Boostrap
 - Linux
 - PostgreSql
 - Git
