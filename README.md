@@ -1,18 +1,10 @@
-### Hi there 👋
-- Analysis and systems development
-- 📝 Dev Java Fullstack Jr.
-- Skills:
-- Docker
-- Java
-- JSP
-- Springboot
-- Boostrap
-- Linux
-- PostgreSql
-- Git
-- 🌱 I’m currently learning Angular
-
-- Looking for new opportunities
+# Diego Oliveira
+Olá, bem vindo ao meu perfil!
+- Desenvolvedor Java Jr.
+- Sou formado em Análise e Desenvolvimento de Sistemas | UDF
+- Apaixonado por tecnologia e novos desafios
+- 
+- Atualmente estudando Angular
 
 <!--
 **diegodsoliveira/diegodsoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
