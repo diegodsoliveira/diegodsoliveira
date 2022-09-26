@@ -3,7 +3,7 @@ Olá, bem vindo ao meu perfil!
 - Desenvolvedor Java Jr.
 - Sou formado em Análise e Desenvolvimento de Sistemas | UDF
 - Apaixonado por tecnologia e novos desafios
-- Atualmente estudando Angular e AWS
+- Atualmente estudando Angular, AWS e me especializando em Spring Boot
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegodsoliveira&show_icons=true&theme=dracula" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegodsoliveira&layout=compact&langs_count=16&theme=dracula" />
