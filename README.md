@@ -1,6 +1,6 @@
 # Diego Oliveira
 Olá, bem vindo ao meu perfil!
-- Desenvolvedor Java Jr.
+- Desenvolvedor Java
 - Sou formado em Análise e Desenvolvimento de Sistemas | UDF
 - Apaixonado por tecnologia e novos desafios
 - Atualmente estudando Angular, AWS e me especializando em Spring Boot
