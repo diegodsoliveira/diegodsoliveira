@@ -3,7 +3,7 @@ Olá, bem vindo ao meu perfil!
 - Desenvolvedor Java
 - Sou formado em Análise e Desenvolvimento de Sistemas | UDF
 - Apaixonado por tecnologia e novos desafios
-- Atualmente estudando Angular, AWS e me especializando em Spring Boot
+- Atualmente estudando me especializando em Spring Boot e ferramentas nocode e lowcode, como n8n, bubble e supabase.
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegodsoliveira&show_icons=true&theme=dracula" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegodsoliveira&layout=compact&langs_count=16&theme=dracula" />
