@@ -5,7 +5,7 @@ Olá, bem vindo ao meu perfil!
 - Apaixonado por tecnologia e novos desafios
 - Atualmente estudando me especializando em Spring Boot e ferramentas nocode e lowcode, como n8n, bubble e supabase.
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegodsoliveira&show_icons=true&theme=transparent" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegodsoliveira" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegodsoliveira&layout=compact&langs_count=16&theme=transparent" />
 </div>
 <div>
