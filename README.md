@@ -1,12 +1,15 @@
 ## Hi there, I'm Diego Oliveira.
-Hi, I'm Diego 👋
-I'm a passionate ##Full Stack Developer## from Brazil, with a degree in Systems Analysis and Development. I thrive on learning new technologies and tackling exciting challenges in software development.
+### Hi, I'm Diego 👋
 
-🔧 Core Expertise: Java Development
-💡 Currently Specializing in: Spring Boot, No-Code/Low-Code tools like n8n, Bubble, and Supabase
-🌱 Always Learning: I have a deep curiosity for exploring innovative solutions and enhancing my skills across the tech stack.
-🎯 Goal-Oriented: I love to build and optimize systems that solve real-world problems.
+I'm a passionate **Full Stack Developer** from Brazil, with a degree in **Systems Analysis and Development** from UDF. I thrive on learning new technologies and tackling exciting challenges in software development.
+
+- 🔧 **Core Expertise:** Java Development
+- 💡 **Currently Specializing in:** Spring Boot, No-Code/Low-Code tools like n8n, Bubble, and Supabase
+- 🌱 **Always Learning:** I have a deep curiosity for exploring innovative solutions and enhancing my skills across the tech stack.
+- 🎯 **Goal-Oriented:** I love to build and optimize systems that solve real-world problems.
+
 Feel free to connect or collaborate! I'm always open to new projects and ideas.
+
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegodsoliveira&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegodsoliveira&layout=compact&langs_count=10" />
