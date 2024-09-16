@@ -1,12 +1,15 @@
-# Diego Oliveira
-Olá, bem vindo ao meu perfil!
-- Desenvolvedor Java
-- Sou formado em Análise e Desenvolvimento de Sistemas | UDF
-- Apaixonado por tecnologia e novos desafios
-- Atualmente estudando me especializando em Spring Boot e ferramentas nocode e lowcode, como n8n, bubble e supabase.
+## Hi there, I'm Diego Oliveira.
+Hi, I'm Diego 👋
+I'm a passionate ##Full Stack Developer## from Brazil, with a degree in Systems Analysis and Development. I thrive on learning new technologies and tackling exciting challenges in software development.
+
+🔧 Core Expertise: Java Development
+💡 Currently Specializing in: Spring Boot, No-Code/Low-Code tools like n8n, Bubble, and Supabase
+🌱 Always Learning: I have a deep curiosity for exploring innovative solutions and enhancing my skills across the tech stack.
+🎯 Goal-Oriented: I love to build and optimize systems that solve real-world problems.
+Feel free to connect or collaborate! I'm always open to new projects and ideas.
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegodsoliveira" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegodsoliveira&layout=compact&langs_count=16&theme=transparent" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegodsoliveira&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegodsoliveira&layout=compact&langs_count=10" />
 </div>
 <div>
   <img height="30" width="40" alt="Diego-Java" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
