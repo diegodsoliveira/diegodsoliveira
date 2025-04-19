@@ -3,8 +3,8 @@
 
 I'm a passionate **Full Stack Developer** from Brazil, with a degree in **Systems Analysis and Development** from UDF. I thrive on learning new technologies and tackling exciting challenges in software development.
 
-- 🔧 **Core Expertise:** Java Development
-- 💡 **Currently Specializing in:** Spring Boot, No-Code/Low-Code tools like n8n, Bubble, and Supabase
+- 🔧 **Core Expertise:** Java and Angular Development
+- 💡 **Currently Specializing in:** Spring Boot, Angular, Docker, CI/CD and n8n.
 - 🌱 **Always Learning:** I have a deep curiosity for exploring innovative solutions and enhancing my skills across the tech stack.
 - 🎯 **Goal-Oriented:** I love to build and optimize systems that solve real-world problems.
 
